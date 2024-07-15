@@ -30,28 +30,10 @@
   
   <td valign="top" width="20%">
 
-  ### <div align="center"> Database </div>
+  ### <div align="center"> Database & Clound</div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongo&theme=dark&perline=3" />
-  </p>
-  </td>
-
-  <td valign="top" width="20%">
-
-  ### <div align="center"> Cloud </div>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=azure&theme=dark&perline=3" />
-  </p>
-  </td>
-  
-  <td valign="top" width="20%">
-
-  ### <div align="center"> Tools </div>
-
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongo,azure&theme=dark&perline=3" />
   </p>
   </td>
 </tr></table>
