@@ -63,7 +63,7 @@
   </a>
 </div>
 
-## <div align="center">🏃Minha Atividade</div>
+## <div align="center">🏃Activity</div>
 
 <div align="center">
   <img src="https://github.com/Paulo-Alvares/Paulo-Alvares/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
