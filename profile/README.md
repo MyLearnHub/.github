@@ -18,7 +18,7 @@
   ### <div align="center"> Front-End </div>
       
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=html,css,js&perline=3" />
   </p>
   </td>
   
@@ -27,7 +27,7 @@
   ### <div align="center"> Back-End </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,php&theme=dark&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=nodejs,java,spring,python,php&perline=3" />
   </p>
   </td>
   
@@ -36,7 +36,7 @@
   ### <div align="center"> Database & Clound</div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongo,azure&theme=dark&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=mysql,mongo,azure&perline=3" />
   </p>
   </td>
 </tr></table>
