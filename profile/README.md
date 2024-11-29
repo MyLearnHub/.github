@@ -18,7 +18,7 @@
   ### <div align="center"> Front-End </div>
       
   <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=html,css,js,ts,react,tailwind,scss&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=html,css,js,ts,react,tailwind,scss,angular&perline=3" />
   </p>
   </td>
   
