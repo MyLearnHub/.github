@@ -1,16 +1,14 @@
-## <div align="center">👋About Me</div>
+## <div align="center">👋 Sobre Mim</div>
 
 <p align="left">
   <img src="../me.png" align="left" height="150" style="margin-right: 20px;">
-  Hello, I'm Paulo. This is a dedicated organization to manage my studies. <br><br>
-  Welcome to my profile! Feel free to explore my repositories and notes, <br>
-  make suggestions or simply chat. I am always open to new connections and learning opportunities. <br><br>
-  Follow me and see my projects on my profile: https://github.com/Paulo-Alvares
+  Olá, sou o Paulo. Está é uma organização dedicada aos meus estudos <br><br>
+  Siga-me e veja meus projetos em: https://github.com/Paulo-Alvares
 </p>
 <div style="clear: both;"></div>
 
 
-## <div align="center">📕What Am I Studying?</div>
+## <div align="center">📕 O que estou estudando?</div>
 
 <table align="center"><tr>
   <td valign="top" width="20%">
